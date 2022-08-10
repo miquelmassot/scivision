@@ -1,7 +1,4 @@
 <div align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <br>
     <p align="center">
     <img src="https://i.imgur.com/kc7aE7z.png" 
@@ -31,6 +28,9 @@
     </a>
     <a href="https://github.com/alan-turing-institute/scivision/blob/main/LICENSE">
         <img alt="License" src="https://img.shields.io/badge/License-BSD_3--Clause-blue.svg">
+    </a>
+    <a href="#contributors">
+        <img alt="All Contributors" src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square">
     </a>
     <br/>
 </p>
